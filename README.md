@@ -52,3 +52,11 @@ Location: Bengaluru, India
 Topics: Creative Talks about Javascript, Node.js, React, Sass/CSS, Education, and Communities \
 https://twitter.com/pixelyunicorn , https://melody.dev/ \
 Location: Philadelphia & NYC, USA
+
+
+**Paul Verbeek-Mast**\
+Topics: Ethics, Team building, Inclusivity, CSS, Accessibilty, Javascript, Developer Tools \
+https://twitter.com/paul_v_m , http://paulvm.com \
+Location: Amsterdam, The Netherlands
+
+<img src="https://twitter.com/paul_v_m/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
